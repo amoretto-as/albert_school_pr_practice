@@ -1,22 +1,14 @@
 Aurélien Moretto
 Antoine Richard x
 Andréa Virasack
-Cyprien Cotte
 Constance Longieras X
-Constantin Vuillier
 Cyprien Cotte X
-Constance Longieras
 Constantin Vuillier X
 Daphnee Stoessel
 Elie Gerwig X
 Edgar Guimet
-<<<<<<< HEAD
-Eliott Musy X 
-Ilona Laulan
-=======
 Eliott Musy
 Ilona Laulan X
->>>>>>> 98c44b87dff6ae98354903a08fe107c9192f7360
 Jean Leclerc
 Lissa Leblanc X
 Louis Pinsard X
@@ -33,6 +25,5 @@ Pablo Pichon
 Raphaël MezineX
 Sacha Benichou
 Théodore Le Molgat X
-Vadim Capton
 Sulian Brouard-Heulluy X
 Vadim Capton
