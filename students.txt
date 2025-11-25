@@ -1,29 +1,34 @@
 Aurélien Moretto
-Antoine Richard
+Antoine Richard x
 Andréa Virasack
-Cyprien Cotte
+Cyprien Cotte X
 Constance Longieras
-Constantin Vuillier
+Constantin Vuillier X
 Daphnee Stoessel
-Elie Gerwig
+Elie Gerwig X
 Edgar Guimet
+<<<<<<< HEAD
 Eliott Musy X 
 Ilona Laulan
+=======
+Eliott Musy
+Ilona Laulan X
+>>>>>>> 98c44b87dff6ae98354903a08fe107c9192f7360
 Jean Leclerc
 Lissa Leblanc
-Louis Pinsard
+Louis Pinsard X
 Lenny Sebban
-Malcolm Morgan
+Malcolm Morgan X
 Michel Pellevilain
 Matheo Pradels
 Maxime Veuillotte
 Nathan Emily
-Nathan Sasson
+Nathan Sasson 
 Paul-César Bensemoun
-Pierre Leclerc
+Pierre Leclerc X
 Pablo Pichon
 Raphaël Mezine
 Sacha Benichou
-Sulian Brouard-Heulluy
+Sulian Brouard-Heulluy X
 Théodore Le Molgat
 Vadim Capton
